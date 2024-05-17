@@ -1,3 +1,1 @@
-Mdadm contains operations such as read, write, seek
-Cache files contains cache usage with linear device
-network contains impklementations of network setup
+Mdadm contains operations such as read, write, and seek. Cache files contain cache implementations with linear devices. Network files contain implementations of network setup.
